@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/easy_calculator/static/js/main.3a09250a.js",
+    "index.html": "/easy_calculator/index.html",
+    "main.3a09250a.js.map": "/easy_calculator/static/js/main.3a09250a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a09250a.js"
+  ]
+}
